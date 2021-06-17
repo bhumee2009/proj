@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+}
+
+.my_nav_bar{
+    position: sticky;
+    top: 0px;
+    z-index: 99999;
+}
+.input{
+    background-color: grey;
+}
+.welcome{
+    background-image:url(school.jpg);
+}
